@@ -8,6 +8,11 @@ meme_dict = {
     "OBO": "¿Qué es obo?",
     "UWU": "Es alguien bien kawai",
     "WTF": "¡Qué grosero!",
+    "Red Flag": "algun factor negativo de una persona"
+    "Pov": "del ingles se traduce al español como "punto de vista""
+    "ntp" : "no te preocupes"
+    "tqm" "te quiero mucho"
+    "flow": "es como tener un estilo marcado"
 }
 
 # Mostrar las palabras disponibles
